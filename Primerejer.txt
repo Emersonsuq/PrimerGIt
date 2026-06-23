@@ -1,1 +1,2 @@
-hola quirdos estudiantes
+hola queridos estudiantes
+esta es la primera clases a ontroduccion a python
