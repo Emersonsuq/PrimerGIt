@@ -1,2 +1,4 @@
 hola queridos estudiantes
-esta es la primera clases a ontroduccion a python
+esta es la primera clases a ontroduccion a Python
+
+haciendo pruebas
